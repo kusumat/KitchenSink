@@ -1,0 +1,18 @@
+{
+    "models": {
+        "mobile": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [],
+            "nodeDataArray": [
+                {
+                    "formKUID": "ecde32b247864c7fb57194d477ee4400",
+                    "formName": "Form1",
+                    "isStartupForm": true,
+                    "key": "ecde32b247864c7fb57194d477ee4400",
+                    "loc": "8 24.845263671875003",
+                    "thumbnailURL": null
+                }
+            ]
+        }
+    }
+}
